@@ -1,6 +1,6 @@
 Public Class HelloWorld
 {
 Public HelloWorld(){
-system.debug('HelloWorld');
+system.debug('HelloWorld123');
 }
 }
